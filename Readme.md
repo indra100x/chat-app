@@ -1,6 +1,6 @@
 # Real-Time Chat Application
 
-![Chat App Screenshot](./screenshot.png) <!-- Add your screenshot if available -->
+
 
 A real-time chat application with user authentication, built with PHP, MySQL, and WebSocket technology.
 
