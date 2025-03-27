@@ -1,0 +1,632 @@
+[2025-03-27 13:56:57] Table 'users' created successfully.
+[2025-03-27 13:56:57] Table 'chat_requests' created successfully.
+[2025-03-27 13:56:57] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:56:57] Table 'messages' created successfully.
+[2025-03-27 13:56:57] Table 'notifications' created successfully.
+[2025-03-27 13:56:57] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:02] Table 'users' created successfully.
+[2025-03-27 13:57:02] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:02] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:02] Table 'messages' created successfully.
+[2025-03-27 13:57:02] Table 'notifications' created successfully.
+[2025-03-27 13:57:02] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:05] Table 'users' created successfully.
+[2025-03-27 13:57:05] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:05] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:05] Table 'messages' created successfully.
+[2025-03-27 13:57:05] Table 'notifications' created successfully.
+[2025-03-27 13:57:05] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:05] Table 'users' created successfully.
+[2025-03-27 13:57:05] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:05] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:05] Table 'messages' created successfully.
+[2025-03-27 13:57:05] Table 'notifications' created successfully.
+[2025-03-27 13:57:05] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:07] Table 'users' created successfully.
+[2025-03-27 13:57:07] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:07] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:07] Table 'messages' created successfully.
+[2025-03-27 13:57:07] Table 'notifications' created successfully.
+[2025-03-27 13:57:07] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:10] Table 'users' created successfully.
+[2025-03-27 13:57:10] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:10] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:10] Table 'messages' created successfully.
+[2025-03-27 13:57:10] Table 'notifications' created successfully.
+[2025-03-27 13:57:10] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:16] Table 'users' created successfully.
+[2025-03-27 13:57:16] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:16] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:16] Table 'messages' created successfully.
+[2025-03-27 13:57:16] Table 'notifications' created successfully.
+[2025-03-27 13:57:16] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:21] Table 'users' created successfully.
+[2025-03-27 13:57:21] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:21] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:21] Table 'messages' created successfully.
+[2025-03-27 13:57:21] Table 'notifications' created successfully.
+[2025-03-27 13:57:21] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:35] Table 'users' created successfully.
+[2025-03-27 13:57:35] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:35] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:35] Table 'messages' created successfully.
+[2025-03-27 13:57:35] Table 'notifications' created successfully.
+[2025-03-27 13:57:35] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:37] Table 'users' created successfully.
+[2025-03-27 13:57:37] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:37] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:37] Table 'messages' created successfully.
+[2025-03-27 13:57:37] Table 'notifications' created successfully.
+[2025-03-27 13:57:37] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:55] Table 'users' created successfully.
+[2025-03-27 13:57:55] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:55] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:55] Table 'messages' created successfully.
+[2025-03-27 13:57:55] Table 'notifications' created successfully.
+[2025-03-27 13:57:55] Table 'ws_connections' created successfully.
+[2025-03-27 13:57:58] Table 'users' created successfully.
+[2025-03-27 13:57:58] Table 'chat_requests' created successfully.
+[2025-03-27 13:57:58] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:57:58] Table 'messages' created successfully.
+[2025-03-27 13:57:58] Table 'notifications' created successfully.
+[2025-03-27 13:57:58] Table 'ws_connections' created successfully.
+[2025-03-27 13:58:00] Table 'users' created successfully.
+[2025-03-27 13:58:00] Table 'chat_requests' created successfully.
+[2025-03-27 13:58:00] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 13:58:00] Table 'messages' created successfully.
+[2025-03-27 13:58:00] Table 'notifications' created successfully.
+[2025-03-27 13:58:00] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:00] Table 'users' created successfully.
+[2025-03-27 14:13:00] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:00] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:00] Table 'messages' created successfully.
+[2025-03-27 14:13:00] Table 'notifications' created successfully.
+[2025-03-27 14:13:00] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:32] Table 'users' created successfully.
+[2025-03-27 14:13:32] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:32] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:32] Table 'messages' created successfully.
+[2025-03-27 14:13:32] Table 'notifications' created successfully.
+[2025-03-27 14:13:32] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:34] Table 'users' created successfully.
+[2025-03-27 14:13:34] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:34] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:34] Table 'messages' created successfully.
+[2025-03-27 14:13:34] Table 'notifications' created successfully.
+[2025-03-27 14:13:34] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:38] Table 'users' created successfully.
+[2025-03-27 14:13:38] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:38] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:38] Table 'messages' created successfully.
+[2025-03-27 14:13:38] Table 'notifications' created successfully.
+[2025-03-27 14:13:38] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:38] Table 'users' created successfully.
+[2025-03-27 14:13:38] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:38] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:38] Table 'messages' created successfully.
+[2025-03-27 14:13:38] Table 'notifications' created successfully.
+[2025-03-27 14:13:38] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:40] Table 'users' created successfully.
+[2025-03-27 14:13:40] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:40] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:40] Table 'messages' created successfully.
+[2025-03-27 14:13:40] Table 'notifications' created successfully.
+[2025-03-27 14:13:40] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:41] Table 'users' created successfully.
+[2025-03-27 14:13:41] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:41] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:41] Table 'messages' created successfully.
+[2025-03-27 14:13:41] Table 'notifications' created successfully.
+[2025-03-27 14:13:41] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:48] Table 'users' created successfully.
+[2025-03-27 14:13:48] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:48] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:48] Table 'messages' created successfully.
+[2025-03-27 14:13:48] Table 'notifications' created successfully.
+[2025-03-27 14:13:48] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:55] Table 'users' created successfully.
+[2025-03-27 14:13:55] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:55] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:55] Table 'messages' created successfully.
+[2025-03-27 14:13:55] Table 'notifications' created successfully.
+[2025-03-27 14:13:55] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:55] Table 'users' created successfully.
+[2025-03-27 14:13:55] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:55] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:55] Table 'messages' created successfully.
+[2025-03-27 14:13:55] Table 'notifications' created successfully.
+[2025-03-27 14:13:55] Table 'ws_connections' created successfully.
+[2025-03-27 14:13:59] Table 'users' created successfully.
+[2025-03-27 14:13:59] Table 'chat_requests' created successfully.
+[2025-03-27 14:13:59] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:13:59] Table 'messages' created successfully.
+[2025-03-27 14:13:59] Table 'notifications' created successfully.
+[2025-03-27 14:13:59] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:00] Table 'users' created successfully.
+[2025-03-27 14:14:00] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:00] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:00] Table 'messages' created successfully.
+[2025-03-27 14:14:00] Table 'notifications' created successfully.
+[2025-03-27 14:14:00] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:02] Table 'users' created successfully.
+[2025-03-27 14:14:02] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:02] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:02] Table 'messages' created successfully.
+[2025-03-27 14:14:02] Table 'notifications' created successfully.
+[2025-03-27 14:14:02] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:05] Table 'users' created successfully.
+[2025-03-27 14:14:05] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:05] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:05] Table 'messages' created successfully.
+[2025-03-27 14:14:05] Table 'notifications' created successfully.
+[2025-03-27 14:14:05] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:11] Table 'users' created successfully.
+[2025-03-27 14:14:11] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:11] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:11] Table 'messages' created successfully.
+[2025-03-27 14:14:11] Table 'notifications' created successfully.
+[2025-03-27 14:14:11] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:13] Table 'users' created successfully.
+[2025-03-27 14:14:13] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:13] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:13] Table 'messages' created successfully.
+[2025-03-27 14:14:13] Table 'notifications' created successfully.
+[2025-03-27 14:14:13] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:16] Table 'users' created successfully.
+[2025-03-27 14:14:16] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:16] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:16] Table 'messages' created successfully.
+[2025-03-27 14:14:16] Table 'notifications' created successfully.
+[2025-03-27 14:14:16] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:18] Table 'users' created successfully.
+[2025-03-27 14:14:18] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:18] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:18] Table 'messages' created successfully.
+[2025-03-27 14:14:18] Table 'notifications' created successfully.
+[2025-03-27 14:14:18] Table 'ws_connections' created successfully.
+[2025-03-27 14:14:20] Table 'users' created successfully.
+[2025-03-27 14:14:20] Table 'chat_requests' created successfully.
+[2025-03-27 14:14:20] Table creation error for 'chats': SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'user1_id, user2_id), GREATEST(user1_id, user2_id)),
+                INDEX `i...' at line 9 (Error Code: 42000)
+[2025-03-27 14:14:20] Table 'messages' created successfully.
+[2025-03-27 14:14:20] Table 'notifications' created successfully.
+[2025-03-27 14:14:20] Table 'ws_connections' created successfully.
+[2025-03-27 14:23:01] Table creation error for 'users': SQLSTATE[42S01]: Base table or view already exists: 1050 Table '`chat_app`.`users`' already exists (Error Code: 42S01)
+[2025-03-27 14:23:01] Table creation error for 'chat_requests': SQLSTATE[42S01]: Base table or view already exists: 1050 Table '`chat_app`.`chat_requests`' already exists (Error Code: 42S01)
+[2025-03-27 14:23:01] Table 'chats' created successfully.
+[2025-03-27 14:23:01] Table creation error for 'messages': SQLSTATE[42S01]: Base table or view already exists: 1050 Table '`chat_app`.`messages`' already exists (Error Code: 42S01)
+[2025-03-27 14:23:01] Table creation error for 'notifications': SQLSTATE[42S01]: Base table or view already exists: 1050 Table '`chat_app`.`notifications`' already exists (Error Code: 42S01)
+[2025-03-27 14:23:01] Table creation error for 'ws_connections': SQLSTATE[42S01]: Base table or view already exists: 1050 Table '`chat_app`.`ws_connections`' already exists (Error Code: 42S01)
+[2025-03-27 14:23:07] Table creation error for 'users': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`users`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:07] Table creation error for 'chat_requests': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`chat_requests`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:07] Table 'chats' created successfully.
+[2025-03-27 14:23:07] Table creation error for 'messages': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`messages`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:07] Table creation error for 'notifications': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`notifications`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:07] Table creation error for 'ws_connections': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`ws_connections`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:11] Table creation error for 'users': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`users`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:11] Table creation error for 'chat_requests': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`chat_requests`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:11] Table 'chats' created successfully.
+[2025-03-27 14:23:11] Table creation error for 'messages': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`messages`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:11] Table creation error for 'notifications': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`notifications`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:11] Table creation error for 'ws_connections': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`ws_connections`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:14] Table creation error for 'users': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`users`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:14] Table creation error for 'chat_requests': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`chat_requests`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:14] Table 'chats' created successfully.
+[2025-03-27 14:23:14] Table creation error for 'messages': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`messages`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:14] Table creation error for 'notifications': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`notifications`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:14] Table creation error for 'ws_connections': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`ws_connections`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:56] Table creation error for 'users': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`users`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:56] Table creation error for 'chat_requests': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`chat_requests`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:56] Table 'chats' created successfully.
+[2025-03-27 14:23:56] Table creation error for 'messages': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`messages`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:56] Table creation error for 'notifications': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`notifications`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:23:56] Table creation error for 'ws_connections': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`ws_connections`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:05] Table creation error for 'users': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`users`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:05] Table creation error for 'chat_requests': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`chat_requests`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:05] Table 'chats' created successfully.
+[2025-03-27 14:24:05] Table creation error for 'messages': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`messages`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:05] Table creation error for 'notifications': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`notifications`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:05] Table creation error for 'ws_connections': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`ws_connections`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:12] Table creation error for 'users': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`users`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:12] Table creation error for 'chat_requests': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`chat_requests`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:12] Table 'chats' created successfully.
+[2025-03-27 14:24:12] Table creation error for 'messages': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`messages`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:12] Table creation error for 'notifications': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`notifications`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:24:12] Table creation error for 'ws_connections': SQLSTATE[HY000]: General error: 1813 Tablespace for table '`chat_app`.`ws_connections`' exists. Please DISCARD the tablespace before IMPORT (Error Code: HY000)
+[2025-03-27 14:27:00] Table 'users' created successfully.
+[2025-03-27 14:27:00] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:00] Table 'chats' created successfully.
+[2025-03-27 14:27:00] Table 'messages' created successfully.
+[2025-03-27 14:27:00] Table 'notifications' created successfully.
+[2025-03-27 14:27:00] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:00] Table 'users' created successfully.
+[2025-03-27 14:27:00] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:00] Table 'chats' created successfully.
+[2025-03-27 14:27:00] Table 'messages' created successfully.
+[2025-03-27 14:27:00] Table 'notifications' created successfully.
+[2025-03-27 14:27:00] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:05] Table 'users' created successfully.
+[2025-03-27 14:27:05] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:05] Table 'chats' created successfully.
+[2025-03-27 14:27:05] Table 'messages' created successfully.
+[2025-03-27 14:27:05] Table 'notifications' created successfully.
+[2025-03-27 14:27:05] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:06] Table 'users' created successfully.
+[2025-03-27 14:27:06] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:06] Table 'chats' created successfully.
+[2025-03-27 14:27:06] Table 'messages' created successfully.
+[2025-03-27 14:27:06] Table 'notifications' created successfully.
+[2025-03-27 14:27:06] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:13] Table 'users' created successfully.
+[2025-03-27 14:27:13] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:13] Table 'chats' created successfully.
+[2025-03-27 14:27:13] Table 'messages' created successfully.
+[2025-03-27 14:27:13] Table 'notifications' created successfully.
+[2025-03-27 14:27:13] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:13] Table 'users' created successfully.
+[2025-03-27 14:27:13] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:13] Table 'chats' created successfully.
+[2025-03-27 14:27:13] Table 'messages' created successfully.
+[2025-03-27 14:27:13] Table 'notifications' created successfully.
+[2025-03-27 14:27:13] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:15] Table 'users' created successfully.
+[2025-03-27 14:27:15] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:15] Table 'chats' created successfully.
+[2025-03-27 14:27:15] Table 'messages' created successfully.
+[2025-03-27 14:27:15] Table 'notifications' created successfully.
+[2025-03-27 14:27:15] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:15] Table 'users' created successfully.
+[2025-03-27 14:27:15] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:15] Table 'chats' created successfully.
+[2025-03-27 14:27:15] Table 'messages' created successfully.
+[2025-03-27 14:27:15] Table 'notifications' created successfully.
+[2025-03-27 14:27:15] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:22] Table 'users' created successfully.
+[2025-03-27 14:27:22] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:22] Table 'chats' created successfully.
+[2025-03-27 14:27:22] Table 'messages' created successfully.
+[2025-03-27 14:27:22] Table 'notifications' created successfully.
+[2025-03-27 14:27:22] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:29] Table 'users' created successfully.
+[2025-03-27 14:27:29] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:29] Table 'chats' created successfully.
+[2025-03-27 14:27:29] Table 'messages' created successfully.
+[2025-03-27 14:27:29] Table 'notifications' created successfully.
+[2025-03-27 14:27:29] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:30] Table 'users' created successfully.
+[2025-03-27 14:27:30] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:30] Table 'chats' created successfully.
+[2025-03-27 14:27:30] Table 'messages' created successfully.
+[2025-03-27 14:27:30] Table 'notifications' created successfully.
+[2025-03-27 14:27:30] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:32] Table 'users' created successfully.
+[2025-03-27 14:27:32] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:32] Table 'chats' created successfully.
+[2025-03-27 14:27:32] Table 'messages' created successfully.
+[2025-03-27 14:27:32] Table 'notifications' created successfully.
+[2025-03-27 14:27:32] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:34] Table 'users' created successfully.
+[2025-03-27 14:27:34] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:34] Table 'chats' created successfully.
+[2025-03-27 14:27:34] Table 'messages' created successfully.
+[2025-03-27 14:27:34] Table 'notifications' created successfully.
+[2025-03-27 14:27:34] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:37] Table 'users' created successfully.
+[2025-03-27 14:27:37] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:37] Table 'chats' created successfully.
+[2025-03-27 14:27:37] Table 'messages' created successfully.
+[2025-03-27 14:27:37] Table 'notifications' created successfully.
+[2025-03-27 14:27:37] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:39] Table 'users' created successfully.
+[2025-03-27 14:27:39] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:39] Table 'chats' created successfully.
+[2025-03-27 14:27:39] Table 'messages' created successfully.
+[2025-03-27 14:27:39] Table 'notifications' created successfully.
+[2025-03-27 14:27:39] Table 'ws_connections' created successfully.
+[2025-03-27 14:27:41] Table 'users' created successfully.
+[2025-03-27 14:27:41] Table 'chat_requests' created successfully.
+[2025-03-27 14:27:41] Table 'chats' created successfully.
+[2025-03-27 14:27:41] Table 'messages' created successfully.
+[2025-03-27 14:27:41] Table 'notifications' created successfully.
+[2025-03-27 14:27:41] Table 'ws_connections' created successfully.
+[2025-03-27 14:40:17] Table 'users' created successfully.
+[2025-03-27 14:40:17] Table 'chat_requests' created successfully.
+[2025-03-27 14:40:17] Table 'chats' created successfully.
+[2025-03-27 14:40:17] Table 'messages' created successfully.
+[2025-03-27 14:40:17] Table 'notifications' created successfully.
+[2025-03-27 14:40:17] Table 'ws_connections' created successfully.
+[2025-03-27 14:40:22] Table 'users' created successfully.
+[2025-03-27 14:40:22] Table 'chat_requests' created successfully.
+[2025-03-27 14:40:22] Table 'chats' created successfully.
+[2025-03-27 14:40:22] Table 'messages' created successfully.
+[2025-03-27 14:40:22] Table 'notifications' created successfully.
+[2025-03-27 14:40:22] Table 'ws_connections' created successfully.
+[2025-03-27 14:40:39] Table 'users' created successfully.
+[2025-03-27 14:40:39] Table 'chat_requests' created successfully.
+[2025-03-27 14:40:39] Table 'chats' created successfully.
+[2025-03-27 14:40:39] Table 'messages' created successfully.
+[2025-03-27 14:40:39] Table 'notifications' created successfully.
+[2025-03-27 14:40:39] Table 'ws_connections' created successfully.
+[2025-03-27 14:40:55] Table 'users' created successfully.
+[2025-03-27 14:40:55] Table 'chat_requests' created successfully.
+[2025-03-27 14:40:55] Table 'chats' created successfully.
+[2025-03-27 14:40:55] Table 'messages' created successfully.
+[2025-03-27 14:40:55] Table 'notifications' created successfully.
+[2025-03-27 14:40:55] Table 'ws_connections' created successfully.
+[2025-03-27 14:40:58] Table 'users' created successfully.
+[2025-03-27 14:40:58] Table 'chat_requests' created successfully.
+[2025-03-27 14:40:58] Table 'chats' created successfully.
+[2025-03-27 14:40:58] Table 'messages' created successfully.
+[2025-03-27 14:40:58] Table 'notifications' created successfully.
+[2025-03-27 14:40:58] Table 'ws_connections' created successfully.
+[2025-03-27 14:45:47] Table 'users' created successfully.
+[2025-03-27 14:45:47] Table 'chat_requests' created successfully.
+[2025-03-27 14:45:47] Table 'chats' created successfully.
+[2025-03-27 14:45:47] Table 'messages' created successfully.
+[2025-03-27 14:45:47] Table 'notifications' created successfully.
+[2025-03-27 14:45:47] Table 'ws_connections' created successfully.
+[2025-03-27 14:45:52] Table 'users' created successfully.
+[2025-03-27 14:45:52] Table 'chat_requests' created successfully.
+[2025-03-27 14:45:52] Table 'chats' created successfully.
+[2025-03-27 14:45:52] Table 'messages' created successfully.
+[2025-03-27 14:45:52] Table 'notifications' created successfully.
+[2025-03-27 14:45:52] Table 'ws_connections' created successfully.
+[2025-03-27 14:48:26] Table 'users' created successfully.
+[2025-03-27 14:48:26] Table 'chat_requests' created successfully.
+[2025-03-27 14:48:26] Table 'chats' created successfully.
+[2025-03-27 14:48:26] Table 'messages' created successfully.
+[2025-03-27 14:48:26] Table 'notifications' created successfully.
+[2025-03-27 14:48:26] Table 'ws_connections' created successfully.
+[2025-03-27 14:48:44] Table 'users' created successfully.
+[2025-03-27 14:48:44] Table 'chat_requests' created successfully.
+[2025-03-27 14:48:44] Table 'chats' created successfully.
+[2025-03-27 14:48:44] Table 'messages' created successfully.
+[2025-03-27 14:48:44] Table 'notifications' created successfully.
+[2025-03-27 14:48:44] Table 'ws_connections' created successfully.
+[2025-03-27 14:52:10] Table 'users' created successfully.
+[2025-03-27 14:52:10] Table 'chat_requests' created successfully.
+[2025-03-27 14:52:10] Table 'chats' created successfully.
+[2025-03-27 14:52:10] Table 'messages' created successfully.
+[2025-03-27 14:52:10] Table 'notifications' created successfully.
+[2025-03-27 14:52:11] Table 'ws_connections' created successfully.
+[2025-03-27 14:52:29] Table 'users' created successfully.
+[2025-03-27 14:52:29] Table 'chat_requests' created successfully.
+[2025-03-27 14:52:29] Table 'chats' created successfully.
+[2025-03-27 14:52:29] Table 'messages' created successfully.
+[2025-03-27 14:52:29] Table 'notifications' created successfully.
+[2025-03-27 14:52:29] Table 'ws_connections' created successfully.
+[2025-03-27 14:52:34] Table 'users' created successfully.
+[2025-03-27 14:52:34] Table 'chat_requests' created successfully.
+[2025-03-27 14:52:34] Table 'chats' created successfully.
+[2025-03-27 14:52:34] Table 'messages' created successfully.
+[2025-03-27 14:52:34] Table 'notifications' created successfully.
+[2025-03-27 14:52:34] Table 'ws_connections' created successfully.
+[2025-03-27 14:52:53] Table 'users' created successfully.
+[2025-03-27 14:52:53] Table 'chat_requests' created successfully.
+[2025-03-27 14:52:53] Table 'chats' created successfully.
+[2025-03-27 14:52:53] Table 'messages' created successfully.
+[2025-03-27 14:52:53] Table 'notifications' created successfully.
+[2025-03-27 14:52:53] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:23] Table 'users' created successfully.
+[2025-03-27 14:53:23] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:23] Table 'chats' created successfully.
+[2025-03-27 14:53:23] Table 'messages' created successfully.
+[2025-03-27 14:53:23] Table 'notifications' created successfully.
+[2025-03-27 14:53:23] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:23] Table 'users' created successfully.
+[2025-03-27 14:53:23] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:23] Table 'chats' created successfully.
+[2025-03-27 14:53:23] Table 'messages' created successfully.
+[2025-03-27 14:53:23] Table 'notifications' created successfully.
+[2025-03-27 14:53:23] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:31] Table 'users' created successfully.
+[2025-03-27 14:53:31] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:31] Table 'chats' created successfully.
+[2025-03-27 14:53:31] Table 'messages' created successfully.
+[2025-03-27 14:53:31] Table 'notifications' created successfully.
+[2025-03-27 14:53:31] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:31] Table 'users' created successfully.
+[2025-03-27 14:53:31] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:31] Table 'chats' created successfully.
+[2025-03-27 14:53:31] Table 'messages' created successfully.
+[2025-03-27 14:53:31] Table 'notifications' created successfully.
+[2025-03-27 14:53:31] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:34] Table 'users' created successfully.
+[2025-03-27 14:53:34] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:34] Table 'chats' created successfully.
+[2025-03-27 14:53:34] Table 'messages' created successfully.
+[2025-03-27 14:53:34] Table 'notifications' created successfully.
+[2025-03-27 14:53:34] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:35] Table 'users' created successfully.
+[2025-03-27 14:53:35] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:35] Table 'chats' created successfully.
+[2025-03-27 14:53:35] Table 'messages' created successfully.
+[2025-03-27 14:53:35] Table 'notifications' created successfully.
+[2025-03-27 14:53:35] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:40] Table 'users' created successfully.
+[2025-03-27 14:53:40] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:40] Table 'chats' created successfully.
+[2025-03-27 14:53:40] Table 'messages' created successfully.
+[2025-03-27 14:53:40] Table 'notifications' created successfully.
+[2025-03-27 14:53:40] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:40] Table 'users' created successfully.
+[2025-03-27 14:53:40] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:40] Table 'chats' created successfully.
+[2025-03-27 14:53:40] Table 'messages' created successfully.
+[2025-03-27 14:53:40] Table 'notifications' created successfully.
+[2025-03-27 14:53:40] Table 'ws_connections' created successfully.
+[2025-03-27 14:53:43] Table 'users' created successfully.
+[2025-03-27 14:53:43] Table 'chat_requests' created successfully.
+[2025-03-27 14:53:43] Table 'chats' created successfully.
+[2025-03-27 14:53:43] Table 'messages' created successfully.
+[2025-03-27 14:53:43] Table 'notifications' created successfully.
+[2025-03-27 14:53:43] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:01] Table 'users' created successfully.
+[2025-03-27 14:54:01] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:01] Table 'chats' created successfully.
+[2025-03-27 14:54:01] Table 'messages' created successfully.
+[2025-03-27 14:54:01] Table 'notifications' created successfully.
+[2025-03-27 14:54:01] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:10] Table 'users' created successfully.
+[2025-03-27 14:54:10] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:10] Table 'chats' created successfully.
+[2025-03-27 14:54:10] Table 'messages' created successfully.
+[2025-03-27 14:54:10] Table 'notifications' created successfully.
+[2025-03-27 14:54:10] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:19] Table 'users' created successfully.
+[2025-03-27 14:54:19] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:19] Table 'chats' created successfully.
+[2025-03-27 14:54:19] Table 'messages' created successfully.
+[2025-03-27 14:54:19] Table 'notifications' created successfully.
+[2025-03-27 14:54:19] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:25] Table 'users' created successfully.
+[2025-03-27 14:54:25] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:25] Table 'chats' created successfully.
+[2025-03-27 14:54:25] Table 'messages' created successfully.
+[2025-03-27 14:54:25] Table 'notifications' created successfully.
+[2025-03-27 14:54:25] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:28] Table 'users' created successfully.
+[2025-03-27 14:54:28] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:28] Table 'chats' created successfully.
+[2025-03-27 14:54:28] Table 'messages' created successfully.
+[2025-03-27 14:54:28] Table 'notifications' created successfully.
+[2025-03-27 14:54:28] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:32] Table 'users' created successfully.
+[2025-03-27 14:54:32] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:32] Table 'chats' created successfully.
+[2025-03-27 14:54:32] Table 'messages' created successfully.
+[2025-03-27 14:54:32] Table 'notifications' created successfully.
+[2025-03-27 14:54:32] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:38] Table 'users' created successfully.
+[2025-03-27 14:54:38] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:38] Table 'chats' created successfully.
+[2025-03-27 14:54:38] Table 'messages' created successfully.
+[2025-03-27 14:54:38] Table 'notifications' created successfully.
+[2025-03-27 14:54:38] Table 'ws_connections' created successfully.
+[2025-03-27 14:54:41] Table 'users' created successfully.
+[2025-03-27 14:54:41] Table 'chat_requests' created successfully.
+[2025-03-27 14:54:41] Table 'chats' created successfully.
+[2025-03-27 14:54:41] Table 'messages' created successfully.
+[2025-03-27 14:54:41] Table 'notifications' created successfully.
+[2025-03-27 14:54:41] Table 'ws_connections' created successfully.
+[2025-03-27 14:55:30] Table 'users' created successfully.
+[2025-03-27 14:55:30] Table 'chat_requests' created successfully.
+[2025-03-27 14:55:30] Table 'chats' created successfully.
+[2025-03-27 14:55:30] Table 'messages' created successfully.
+[2025-03-27 14:55:30] Table 'notifications' created successfully.
+[2025-03-27 14:55:30] Table 'ws_connections' created successfully.
+[2025-03-27 14:55:43] Table 'users' created successfully.
+[2025-03-27 14:55:43] Table 'chat_requests' created successfully.
+[2025-03-27 14:55:43] Table 'chats' created successfully.
+[2025-03-27 14:55:43] Table 'messages' created successfully.
+[2025-03-27 14:55:43] Table 'notifications' created successfully.
+[2025-03-27 14:55:43] Table 'ws_connections' created successfully.
+[2025-03-27 14:55:59] Table 'users' created successfully.
+[2025-03-27 14:55:59] Table 'chat_requests' created successfully.
+[2025-03-27 14:55:59] Table 'chats' created successfully.
+[2025-03-27 14:55:59] Table 'messages' created successfully.
+[2025-03-27 14:55:59] Table 'notifications' created successfully.
+[2025-03-27 14:55:59] Table 'ws_connections' created successfully.
+[2025-03-27 14:55:59] Table 'users' created successfully.
+[2025-03-27 14:55:59] Table 'chat_requests' created successfully.
+[2025-03-27 14:55:59] Table 'chats' created successfully.
+[2025-03-27 14:55:59] Table 'messages' created successfully.
+[2025-03-27 14:55:59] Table 'notifications' created successfully.
+[2025-03-27 14:55:59] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:02] Table 'users' created successfully.
+[2025-03-27 14:56:02] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:02] Table 'chats' created successfully.
+[2025-03-27 14:56:02] Table 'messages' created successfully.
+[2025-03-27 14:56:02] Table 'notifications' created successfully.
+[2025-03-27 14:56:02] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:03] Table 'users' created successfully.
+[2025-03-27 14:56:03] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:03] Table 'chats' created successfully.
+[2025-03-27 14:56:03] Table 'messages' created successfully.
+[2025-03-27 14:56:03] Table 'notifications' created successfully.
+[2025-03-27 14:56:03] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:08] Table 'users' created successfully.
+[2025-03-27 14:56:09] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:09] Table 'chats' created successfully.
+[2025-03-27 14:56:09] Table 'messages' created successfully.
+[2025-03-27 14:56:09] Table 'notifications' created successfully.
+[2025-03-27 14:56:09] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:19] Table 'users' created successfully.
+[2025-03-27 14:56:19] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:19] Table 'chats' created successfully.
+[2025-03-27 14:56:19] Table 'messages' created successfully.
+[2025-03-27 14:56:19] Table 'notifications' created successfully.
+[2025-03-27 14:56:19] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:21] Table 'users' created successfully.
+[2025-03-27 14:56:21] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:21] Table 'chats' created successfully.
+[2025-03-27 14:56:21] Table 'messages' created successfully.
+[2025-03-27 14:56:21] Table 'notifications' created successfully.
+[2025-03-27 14:56:21] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:24] Table 'users' created successfully.
+[2025-03-27 14:56:24] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:24] Table 'chats' created successfully.
+[2025-03-27 14:56:24] Table 'messages' created successfully.
+[2025-03-27 14:56:24] Table 'notifications' created successfully.
+[2025-03-27 14:56:24] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:28] Table 'users' created successfully.
+[2025-03-27 14:56:28] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:28] Table 'chats' created successfully.
+[2025-03-27 14:56:28] Table 'messages' created successfully.
+[2025-03-27 14:56:28] Table 'notifications' created successfully.
+[2025-03-27 14:56:28] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:31] Table 'users' created successfully.
+[2025-03-27 14:56:31] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:31] Table 'chats' created successfully.
+[2025-03-27 14:56:31] Table 'messages' created successfully.
+[2025-03-27 14:56:31] Table 'notifications' created successfully.
+[2025-03-27 14:56:31] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:35] Table 'users' created successfully.
+[2025-03-27 14:56:35] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:35] Table 'chats' created successfully.
+[2025-03-27 14:56:35] Table 'messages' created successfully.
+[2025-03-27 14:56:35] Table 'notifications' created successfully.
+[2025-03-27 14:56:35] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:41] Table 'users' created successfully.
+[2025-03-27 14:56:41] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:41] Table 'chats' created successfully.
+[2025-03-27 14:56:41] Table 'messages' created successfully.
+[2025-03-27 14:56:41] Table 'notifications' created successfully.
+[2025-03-27 14:56:41] Table 'ws_connections' created successfully.
+[2025-03-27 14:56:43] Table 'users' created successfully.
+[2025-03-27 14:56:43] Table 'chat_requests' created successfully.
+[2025-03-27 14:56:43] Table 'chats' created successfully.
+[2025-03-27 14:56:43] Table 'messages' created successfully.
+[2025-03-27 14:56:43] Table 'notifications' created successfully.
+[2025-03-27 14:56:43] Table 'ws_connections' created successfully.

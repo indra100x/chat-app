@@ -1,0 +1,7 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "firebase/php-jwt": "^6.11",
+        "monolog/monolog": "^3.9"
+    }
+}
