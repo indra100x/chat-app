@@ -1,24 +1,24 @@
 <?php
 
-// Database Configuration
+
 $servername = "localhost";
-$username = "root";  // Adjust as needed
-$password = "";      // Adjust as needed
+$username = "root"; 
+$password = "";      
 $dbname = "chat_app";
 $websocket_url = "ws://localhost:8080";
 
-// Enable error reporting for debugging
+
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-// Logging function
+
 function logError($message) {
     $logMessage = "[" . date('Y-m-d H:i:s') . "] " . $message . PHP_EOL;
     file_put_contents(__DIR__ . '/database_errors.log', $logMessage, FILE_APPEND);
     error_log($logMessage);
 }
 
-// PDO Configuration Options
+
 $pdoOptions = [
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
@@ -27,21 +27,21 @@ $pdoOptions = [
 ];
 
 try {
-    // Initial connection to create database
+   
     $initDb = new PDO("mysql:host=$servername", $username, $password, $pdoOptions);
     
-    // Disable foreign key checks temporarily to allow cascade creation
+   
     $initDb->exec("SET FOREIGN_KEY_CHECKS = 0");
     
-    // Create database with UTF-8 support
+    
     $initDb->exec("CREATE DATABASE IF NOT EXISTS `$dbname` 
               CHARACTER SET utf8mb4 
               COLLATE utf8mb4_unicode_ci");
     
-    // Switch to the new database
+    
     $initDb->exec("USE `$dbname`");
 
-    // Table definitions with comprehensive setup
+   
     $tables = [
         'users' => "
             CREATE TABLE IF NOT EXISTS `users` (
@@ -133,7 +133,7 @@ try {
         "
     ];
 
-    // Create tables with comprehensive error handling
+    
     foreach ($tables as $tableName => $tableDefinition) {
         try {
             $initDb->exec($tableDefinition);
@@ -141,14 +141,14 @@ try {
         } catch (PDOException $e) {
             logError("Table creation error for '$tableName': " . $e->getMessage() . 
                      " (Error Code: " . $e->getCode() . ")");
-            // Continue with other tables instead of dying
+          
         }
     }
 
-    // Re-enable foreign key checks
+  
     $initDb->exec("SET FOREIGN_KEY_CHECKS = 1");
 
-    // Create a persistent database connection
+   
     $db = new PDO(
         "mysql:host=$servername;dbname=$dbname;charset=utf8mb4",
         $username,
@@ -164,7 +164,7 @@ try {
     die("Database setup failed. Please check the error logs.");
 }
 
-// Helper function to create a notification
+
 function notifyUser($userId, $type, $data = []) {
     global $db;
     
@@ -194,7 +194,7 @@ function notifyUser($userId, $type, $data = []) {
     }
 }
 
-// Helper function to update user online status
+
 function updateUserStatus($userId, $isOnline) {
     global $db;
     
@@ -221,7 +221,7 @@ function updateUserStatus($userId, $isOnline) {
     }
 }
 
-// Helper function to mark messages as read
+
 function markMessagesAsRead($chatId, $userId) {
     global $db;
     

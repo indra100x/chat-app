@@ -18,17 +18,17 @@ const wss = new WebSocket.Server({ port: 8080 });
 
 wss.on('connection', async (ws, req) => {
   try {
-    // Log connection attempt
+   
     console.log('New WebSocket connection attempt');
 
-    // Parse query parameters
+   
     const url = new URL(`http://localhost${req.url}`);
     const token = url.searchParams.get('token');
     const chatId = url.searchParams.get('chat_id');
 
     console.log('Received connection params:', { token, chatId });
 
-    // Verify JWT token
+   
     let decoded;
     try {
       decoded = jwt.verify(token, JWT_SECRET);
@@ -39,11 +39,11 @@ wss.on('connection', async (ws, req) => {
       return;
     }
 
-    // Set user and chat context
-    ws.userId = decoded.sub; // Changed from userId to sub to match your JWT payload
+ 
+    ws.userId = decoded.sub; 
     ws.chatId = chatId;
 
-    // Validate chat access
+
     const [chat] = await pool.query(
       'SELECT id FROM chats WHERE id = ? AND (user1_id = ? OR user2_id = ?)',
       [chatId, ws.userId, ws.userId]
@@ -55,7 +55,7 @@ wss.on('connection', async (ws, req) => {
       return;
     }
 
-    // Message handler
+    
     ws.on('message', async (message) => {
       console.log('Received message:', message.toString());
       try {
@@ -72,17 +72,17 @@ wss.on('connection', async (ws, req) => {
       }
     });
 
-    // Error handler
+   
     ws.on('error', (error) => {
       console.error('WebSocket error:', error);
     });
 
-    // Close handler
+   
     ws.on('close', (code, reason) => {
       console.log(`WebSocket closed: Code ${code}, Reason: ${reason}`);
     });
 
-    // Send connection confirmation
+ 
     ws.send(JSON.stringify({
       type: 'connection',
       status: 'success',
@@ -100,19 +100,19 @@ wss.on('connection', async (ws, req) => {
 
 async function handleMessage(ws, data) {
   try {
-    // Validate message content
+   
     if (!data.message || typeof data.message !== 'string' || data.message.trim() === '') {
       console.log('Invalid message received:', data);
       return;
     }
 
-    // Insert message into database
+   
     const [result] = await pool.query(
       'INSERT INTO messages (chat_id, sender_id, message) VALUES (?, ?, ?)',
       [ws.chatId, ws.userId, data.message]
     );
 
-    // Get full message details
+    
     const [messages] = await pool.query(`
       SELECT m.*, u.username
       FROM messages m
@@ -122,14 +122,14 @@ async function handleMessage(ws, data) {
 
     const messageData = messages[0];
 
-    // Get chat participants
+   
     const [participants] = await pool.query(
       'SELECT user1_id AS userId FROM chats WHERE id = ? ' +
       'UNION SELECT user2_id AS userId FROM chats WHERE id = ?',
       [ws.chatId, ws.chatId]
     );
 
-    // Broadcast to participants
+  
     wss.clients.forEach(client => {
       if (client.readyState === WebSocket.OPEN &&
           client.chatId === ws.chatId &&

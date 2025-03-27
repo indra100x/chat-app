@@ -4,13 +4,13 @@ require_once __DIR__ . '/vendor/autoload.php';
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 
-// Add a namespace to resolve the use statement warning
+
 
 
 class AuthHelper {
     const JWT_SECRET = 'your-256-bit-secret-key-here';
     const JWT_ALGORITHM = 'HS256';
-    const JWT_EXPIRE = 3600; // 1 hour
+    const JWT_EXPIRE = 3600; 
     public static function generateToken($userId) {
         $payload = [
             'iss' => 'your-domain.com',

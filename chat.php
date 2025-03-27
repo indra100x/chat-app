@@ -8,11 +8,11 @@ use App\Helpers\AuthHelper;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 
-// Initialize logging
+
 $logger = new Logger('chat_application');
 $logger->pushHandler(new StreamHandler(__DIR__ . '/logs/chat.log', Logger::ERROR));
 
-// Authentication check
+
 if (!isset($_SESSION['user_id'])) {
     header("Location: login.php");
     exit();
@@ -24,7 +24,7 @@ $chat_id = filter_input(INPUT_GET, 'id', FILTER_VALIDATE_INT, [
 ]) ?: 0;
 
 try {
-    // Validate chat access
+   
     $stmt = $db->prepare("
         SELECT c.id, c.user1_id, c.user2_id 
         FROM chats c
@@ -43,7 +43,7 @@ try {
                 ? $chat['user2_id'] 
                 : $chat['user1_id'];
 
-    // Fetch partner details
+   
     $stmt = $db->prepare("
         SELECT id, username, is_online, last_seen 
         FROM users 
@@ -56,7 +56,7 @@ try {
         throw new Exception("Partner not found");
     }
 
-    // Fetch messages
+    
     $stmt = $db->prepare("
         SELECT m.*, u.username 
         FROM messages m
@@ -73,10 +73,10 @@ try {
     exit();
 }
 
-// Generate secure token for WebSocket authentication
+
 $token = AuthHelper::generateToken($current_user_id);
 
-// Prepare last seen information
+
 $last_seen_formatted = $partner['last_seen'] 
     ? date('h:i A', strtotime($partner['last_seen'])) 
     : 'Unknown';
@@ -133,13 +133,13 @@ $last_seen_formatted = $partner['last_seen']
     </div>
 
     <script>
-    const WEBSOCKET_URL = 'ws://localhost:8080'; // Consider making this configurable
+    const WEBSOCKET_URL = 'ws://localhost:8080'; 
     const messagesContainer = document.getElementById('messages');
     const token = '<?= $token ?>';
     const chatId = <?= $chat_id ?>;
     const currentUserId = <?= $current_user_id ?>;
 
-    // Robust WebSocket connection management
+   
     class ChatWebSocket {
         constructor(url, token, chatId) {
             this.url = url;

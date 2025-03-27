@@ -446,14 +446,14 @@ try {
         };
     }
 
-    // Initial connection
+  
     connectWebSocket();
 
-    // Handle new incoming requests
+    
     function addNewRequest(data) {
         const requestList = document.querySelector('.request-list');
         
-        // Check if request already exists
+       
         if (document.querySelector(`[data-request-id="${data.request_id}"]`)) {
             return;
         }
@@ -487,7 +487,7 @@ try {
         showNotification(`New chat request from ${data.sender_name}`);
     }
 
-    // Handle form submissions without page reload
+  
     function handleAccept(form) {
         fetch('handle_request.php', {
             method: 'POST',
@@ -501,7 +501,7 @@ try {
                     requestItem.remove();
                 }
                 showNotification('Request accepted!');
-                // Optionally redirect to chat
+               
                 if (data.chat_id) {
                     window.location.href = `chat.php?id=${data.chat_id}`;
                 }
@@ -532,7 +532,7 @@ try {
         return false;
     }
 
-    // Helper functions
+   
     function escapeHtml(text) {
         const div = document.createElement('div');
         div.textContent = text;

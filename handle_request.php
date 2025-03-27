@@ -20,7 +20,7 @@ try {
             $request_id = intval($_POST['request_id']);
             $sender_id = intval($_POST['sender_id']);
             
-            // Verify the request
+          
             $stmt = $db->prepare("
                 SELECT id FROM chat_requests 
                 WHERE id = ? 
@@ -30,7 +30,7 @@ try {
             $stmt->execute([$request_id, $_SESSION['user_id']]);
             
             if ($stmt->rowCount() > 0) {
-                // Create chat
+               
                 $stmt = $db->prepare("
                     INSERT INTO chats (user1_id, user2_id)
                     VALUES (?, ?)
@@ -38,7 +38,7 @@ try {
                 $stmt->execute([$sender_id, $_SESSION['user_id']]);
                 $chat_id = $db->lastInsertId();
                 
-                // Update request status
+               
                 $stmt = $db->prepare("
                     UPDATE chat_requests 
                     SET status = 'accepted'
@@ -46,7 +46,7 @@ try {
                 ");
                 $stmt->execute([$request_id]);
                 
-                // Notify sender via WebSocket
+                
                 notifyUser($sender_id, 'request_accepted', [
                     'chat_id' => $chat_id,
                     'receiver_id' => $_SESSION['user_id']

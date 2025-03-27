@@ -219,7 +219,7 @@ try {
             if (chatItem) {
                 const lastActivity = chatItem.querySelector('.last-activity');
                 lastActivity.textContent = new Date(data.timestamp).toLocaleString();
-                chatItem.style.order = 0; // Move to top
+                chatItem.style.order = 0; 
             }
         }
 
@@ -290,7 +290,6 @@ try {
             setTimeout(() => notification.remove(), 3000);
         }
 
-        // Initial connection
         connectWebSocket();
     </script>
 </body>
